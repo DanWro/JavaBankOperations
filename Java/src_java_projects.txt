@@ -1,0 +1,6 @@
+"C:\\Users\\Sylwia\\Desktop\\Java projects\\Stat.java"
+"C:\\Users\\Sylwia\\Desktop\\Java projects\\Bank.java"
+"C:\\Users\\Sylwia\\Desktop\\Java projects\\Deposit.java"
+"C:\\Users\\Sylwia\\Desktop\\Java projects\\Dwa.java"
+"C:\\Users\\Sylwia\\Desktop\\Java projects\\Procenty.java"
+"C:\\Users\\Sylwia\\Desktop\\Java projects\\VipCustomer.java"

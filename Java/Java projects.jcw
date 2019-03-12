@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Java projects</label>
+	</settings>
+	<users>
+		<user>
+			<path>Java projects.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Java projects.jcp</path>
+		</project>
+		<project>
+			<path>Vip\Vip.jcp</path>
+		</project>
+	</projects>
+</workspace>
